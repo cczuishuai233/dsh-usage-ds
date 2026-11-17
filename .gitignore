@@ -4,3 +4,4 @@ node_modules/
 dsh-usage/
 release/
 .DS_Store
+.agents/
